@@ -1,0 +1,4 @@
+requests
+pandas
+tornado
+git+git://github.com/zengbin93/chan.git
